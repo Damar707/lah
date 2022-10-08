@@ -31,6 +31,8 @@
 
 > **Warning**: 
 > Masing masing server panel mempunyai kecepatan berbeda!
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Damar707/lah)
+
 
 
 ## Join Group Diskusi
