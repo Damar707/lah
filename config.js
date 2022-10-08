@@ -5,21 +5,21 @@
 //misal gua lupa nambah atau typo benerin aja bre gua pusing njir awokawok 
 
 //Global Owner//
-global.owner = ['6282221792667']  // isi jika perlu
-global.mods = ['6282221792667']   // isi jika perlu
-global.prems = ['6282221792667']  // isi jika perlu
+global.owner = ['6283867228380']  // isi jika perlu
+global.mods = ['6283867228380']   // isi jika perlu
+global.prems = ['6283867228380']  // isi jika perlu
 
 //Nomor Owner & payment//
-global.nameowner = 'TioXd' // isi nama kalian bebas
-global.numberowner = '6282221792667' // isi nomor kalian dengan awalan seperti di contoh 
-global.dana = '6282221792667' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '6282221792667' // isi dengan nomor pulsa hp kalian
-global.gopay = '6282221792667'
+global.nameowner = 'DamarHaxoer' // isi nama kalian bebas
+global.numberowner = '6283867228380' // isi nomor kalian dengan awalan seperti di contoh 
+global.dana = '6283867228380' // isi dengan nomor dana yg kamu punya 
+global.pulsa = '6283867228380' // isi dengan nomor pulsa hp kalian
+global.gopay = '6283867228380'
 
 //Nama Bot & Grouplink//
 global.namebot = 'RTXZY-MD'
 global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
-global.web = 'https://github.com/BOTCAHX' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://github.com/Damar707' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 
 //Tampilan wm Bot dan pesan bot//
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
